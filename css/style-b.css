@@ -30,6 +30,7 @@ p {
   width: 140px;
   height: 25px;
   background-color: yellowgreen;
+  border: 1 px solid gray;
 }
 
  .btn:hover {
